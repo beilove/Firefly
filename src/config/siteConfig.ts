@@ -7,17 +7,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	title: "悠游的记事本",
-// 	subtitle: "OWOUO", // 副标题
+	// 	subtitle: "OWOUO", // 副标题
 	site_url: "https://blog.owouo.com",
-	description:
-		"悠游的个人博客网站。",
-	keywords: [
-		"Astro",
-		"ACGN",
-		"博客",
-		"技术博客",
-		"静态博客",
-	],
+	description: "悠游的个人博客网站。",
+	keywords: ["Astro", "ACGN", "博客", "技术博客", "静态博客"],
 
 	lang: SITE_LANG,
 
