@@ -3,8 +3,10 @@ import type { ProfileConfig } from "../types/config";
 export const profileConfig: ProfileConfig = {
 	// 头像
 	avatar: "/assets/images/avatar.jpg",
+
 	// 名字
 	name: "悠游",
+
 	// 个人签名
 	bio: "Hello, I'm 悠游.",
 
@@ -16,6 +18,12 @@ export const profileConfig: ProfileConfig = {
 	// showName: true 时显示图标和名称，false 时只显示图标
 	links: [
 		{
+			name: "Bilibli",
+			icon: "fa6-brands:bilibili",
+			url: "https://space.bilibili.com/38932988",
+			showName: false,
+		},
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/beilove",
@@ -24,7 +32,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "beichen@bvipc.com",
+			url: "mailto:beichen@bvipc.com",
 			showName: false,
 		},
 		{

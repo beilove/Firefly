@@ -5,13 +5,8 @@ updated: 1970-01-01
 description: "了解 Firefly 中的 Markdown 功能"
 image: ""
 tags: [演示, 示例, Markdown, Firefly]
-<<<<<<< HEAD
-category: '文章示例'
-draft: true
-=======
 category: "文章示例"
 draft: false
->>>>>>> 8da442d26e62ab48f81ed3ed9b59585abf459b8d
 ---
 
 ## GitHub 仓库卡片
