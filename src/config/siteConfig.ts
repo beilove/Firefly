@@ -16,8 +16,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://blog.owouo.com",
 
 	// 站点描述
-	description:
-		"悠游的个人博客网站。",
+	description: "悠游的个人博客网站。",
 
 	// 站点关键词
 	keywords: [
