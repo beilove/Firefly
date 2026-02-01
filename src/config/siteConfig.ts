@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
 	title: "悠游的记事本",
 
 	// 站点副标题
-	// subtitle: "OWOUO",
+	subtitle: "",
 
 	// 站点 URL
 	site_url: "https://blog.owouo.com",
